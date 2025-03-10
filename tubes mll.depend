@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1733103453 source:d:\tubes mll\main.cpp
+	"mll.h"
+	<iostream>
+
+1733120463 d:\tubes mll\mll.h
+	<iostream>
+
+1733103453 source:d:\tubes mll\mll.cpp
+	"mll.h"
+
+1734713655 source:c:\users\alvito buana\desktop\tubes mll\main.cpp
+	<iostream>
+	"mll.h"
+
+1734713655 c:\users\alvito buana\desktop\tubes mll\mll.h
+	<iostream>
+
+1734713655 source:c:\users\alvito buana\desktop\tubes mll\mll.cpp
+	<iostream>
+	"mll.h"
+
